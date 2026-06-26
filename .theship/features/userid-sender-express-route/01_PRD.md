@@ -22,6 +22,7 @@ There is currently no dedicated Express route that returns a simple user ID to t
 - [ ] The route must return a user ID in the response.
 - [ ] The user ID must not be fetched from any external data source or database.
 - [ ] The response must include the user ID and a status.
+And dont have any specifc route name needed
 
 ## Edge Cases
 - Ensuring the route returns a valid response format even though no database lookup is performed.

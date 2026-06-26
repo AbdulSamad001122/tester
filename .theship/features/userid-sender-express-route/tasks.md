@@ -1,5 +1,6 @@
 # Tasks for userId sender express route
 
-- [ ] **Add new Express route for user ID** (id: cmquvcpe4000t103s4l1mn3uo)
-- [ ] **Implement route handler logic** (id: cmquvcq50000u103si4mjj0rs)
-- [ ] **Return response format** (id: cmquvcq83000v103seqvcuz8o)
+- [ ] **Create Express route file for userId endpoint** (id: cmquw48l4000z103sq2r89769)
+- [ ] **Implement route handler to return static user ID and status** (id: cmquw48o10010103s24m7xpf1)
+- [ ] **Integrate the new route into the main Express application** (id: cmquw48qw0011103s3rd9srek)
+- [ ] **Verify route returns correct response format** (id: cmquw48tp0012103sojn8omvr)

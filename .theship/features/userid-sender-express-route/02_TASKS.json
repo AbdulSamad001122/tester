@@ -1,23 +1,30 @@
 [
   {
     "index": 1,
-    "id": "cmquvcpe4000t103s4l1mn3uo",
-    "title": "Add new Express route for user ID",
-    "description": "Create a new endpoint (e.g., GET /api/user-id) in the Express server that will be used to retrieve the user ID.",
+    "id": "cmquw48l4000z103sq2r89769",
+    "title": "Create Express route file for userId endpoint",
+    "description": "Add a new file (e.g., routes/userId.js) that defines an Express router and exports it for use in the main app.",
     "status": "todo"
   },
   {
     "index": 2,
-    "id": "cmquvcq50000u103si4mjj0rs",
-    "title": "Implement route handler logic",
-    "description": "In the route handler, construct a hard‑coded user ID value (e.g., a static string or number) and return it in a JSON response along with a success status.",
+    "id": "cmquw48o10010103s24m7xpf1",
+    "title": "Implement route handler to return static user ID and status",
+    "description": "Write a GET handler (e.g., '/userId') that responds with JSON containing a hardcoded user ID (e.g., { userId: '12345', status: 'ok' }) and ensures no database or external calls are made.",
     "status": "todo"
   },
   {
     "index": 3,
-    "id": "cmquvcq83000v103seqvcuz8o",
-    "title": "Return response format",
-    "description": "Ensure the JSON response includes both the user ID and a status field (e.g., {\"status\": \"success\", \"userId\": \"12345\"}).",
+    "id": "cmquw48qw0011103s3rd9srek",
+    "title": "Integrate the new route into the main Express application",
+    "description": "Import the router in the server entry point (e.g., app.js or server.js) and mount it under an appropriate path (e.g., app.use('/', userIdRouter)).",
+    "status": "todo"
+  },
+  {
+    "index": 4,
+    "id": "cmquw48tp0012103sojn8omvr",
+    "title": "Verify route returns correct response format",
+    "description": "Start the server locally, send a request to the endpoint (using curl, Postman, or similar), and confirm the response includes the user ID and status fields with HTTP 200 OK.",
     "status": "todo"
   }
 ]
