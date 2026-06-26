@@ -1,6 +1,6 @@
 # Task: Integrate backend and frontend for dynamic data display
 **ID**: cmquu6vk8000i103ss1e2ih7m
-**Status**: TODO
+**Status**: REVIEW
 
 ## Description
 Connect the frontend About Page to the backend API to fetch and display the company name and founding year dynamically. Implement error handling for missing or empty data.

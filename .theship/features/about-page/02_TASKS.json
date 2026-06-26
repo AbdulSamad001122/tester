@@ -1,24 +1,24 @@
 [
   {
     "index": 1,
-    "id": "cmquu6ujs000g103sa2k10tct",
-    "title": "Create backend configuration file or CMS field for company details",
-    "description": "Store company name and founding year in a single source, such as a JSON configuration file or CMS field, with a default of empty if missing. Implement a simple API to retrieve this data.",
-    "status": "todo"
-  },
-  {
-    "index": 2,
     "id": "cmquu6v82000h103sl4oubzr6",
     "title": "Design and develop responsive About Page UI",
     "description": "Create a page layout with a prominent 'About Us' heading and a section below displaying the company name and founding year. Implement a responsive design that adjusts to mobile and desktop views, following the site's existing design system.",
-    "status": "todo"
+    "status": "in_progress"
+  },
+  {
+    "index": 2,
+    "id": "cmquu6ujs000g103sa2k10tct",
+    "title": "Create backend configuration file or CMS field for company details",
+    "description": "Store company name and founding year in a single source, such as a JSON configuration file or CMS field, with a default of empty if missing. Implement a simple API to retrieve this data.",
+    "status": "review"
   },
   {
     "index": 3,
     "id": "cmquu6vk8000i103ss1e2ih7m",
     "title": "Integrate backend and frontend for dynamic data display",
     "description": "Connect the frontend About Page to the backend API to fetch and display the company name and founding year dynamically. Implement error handling for missing or empty data.",
-    "status": "todo"
+    "status": "review"
   },
   {
     "index": 4,

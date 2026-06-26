@@ -1,6 +1,6 @@
 # Task: Design and develop responsive About Page UI
 **ID**: cmquu6v82000h103sl4oubzr6
-**Status**: TODO
+**Status**: IN_PROGRESS
 
 ## Description
 Create a page layout with a prominent 'About Us' heading and a section below displaying the company name and founding year. Implement a responsive design that adjusts to mobile and desktop views, following the site's existing design system.
