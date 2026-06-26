@@ -1,6 +1,6 @@
 # Task: Implement HTML markup for name and email fields
 **ID**: cmqusz9b50005103s76gjnqcx
-**Status**: TODO
+**Status**: DONE
 
 ## Description
 Add two <input> elements (type='text' for name, type='email' for email) with appropriate id, name, placeholder, and ARIA labels; ensure no <form> submit button or action is present.

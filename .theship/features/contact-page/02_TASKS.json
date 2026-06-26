@@ -1,44 +1,44 @@
 [
   {
     "index": 1,
-    "id": "cmqusz9880004103sdah8s1vh",
-    "title": "Create contact page component/file",
-    "description": "Add a new route or static page (e.g., src/pages/Contact.js/Contact.tsx) that will render the contact information UI.",
-    "status": "todo"
-  },
-  {
-    "index": 2,
-    "id": "cmqusz9b50005103s76gjnqcx",
-    "title": "Implement HTML markup for name and email fields",
-    "description": "Add two <input> elements (type='text' for name, type='email' for email) with appropriate id, name, placeholder, and ARIA labels; ensure no <form> submit button or action is present.",
-    "status": "todo"
-  },
-  {
-    "index": 3,
     "id": "cmqusz9dz0006103sxdf3puzn",
     "title": "Style the contact page with minimalist CSS",
     "description": "Write CSS (or SCSS/modules) to layout the inputs vertically, apply clean typography, spacing, and neutral colors; include focus outlines for accessibility.",
     "status": "todo"
   },
   {
-    "index": 4,
+    "index": 2,
     "id": "cmqusz9gw0007103sslljf89a",
     "title": "Make the layout responsive",
     "description": "Use flexbox or CSS Grid with media queries to ensure the inputs and labels stack appropriately on mobile and desktop viewports.",
     "status": "todo"
   },
   {
-    "index": 5,
+    "index": 3,
     "id": "cmqusz9jr0008103srv18lx8k",
     "title": "Add accessibility enhancements",
     "description": "Ensure each input is associated with a <label> via htmlFor/id, provide sufficient color contrast, and test with screen readers; optionally add role='region' and aria-labelledby.",
     "status": "todo"
   },
   {
-    "index": 6,
+    "index": 4,
     "id": "cmqusz9mo0009103stnq5gsfj",
     "title": "Validate and lint the implementation",
     "description": "Run ESLint/Stylelint checks, verify no console errors, and perform a quick visual regression test to confirm the page matches the design specs.",
     "status": "todo"
+  },
+  {
+    "index": 5,
+    "id": "cmqusz9b50005103s76gjnqcx",
+    "title": "Implement HTML markup for name and email fields",
+    "description": "Add two <input> elements (type='text' for name, type='email' for email) with appropriate id, name, placeholder, and ARIA labels; ensure no <form> submit button or action is present.",
+    "status": "done"
+  },
+  {
+    "index": 6,
+    "id": "cmqusz9880004103sdah8s1vh",
+    "title": "Create contact page component/file",
+    "description": "Add a new route or static page (e.g., src/pages/Contact.js/Contact.tsx) that will render the contact information UI.",
+    "status": "done"
   }
 ]

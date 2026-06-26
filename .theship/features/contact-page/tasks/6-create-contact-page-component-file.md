@@ -1,6 +1,6 @@
 # Task: Create contact page component/file
 **ID**: cmqusz9880004103sdah8s1vh
-**Status**: TODO
+**Status**: DONE
 
 ## Description
 Add a new route or static page (e.g., src/pages/Contact.js/Contact.tsx) that will render the contact information UI.
