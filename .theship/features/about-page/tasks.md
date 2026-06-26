@@ -1,8 +1,8 @@
 # Tasks for About Page
 
 - [x] **Integrate backend and frontend for dynamic data display** (id: cmquu6vk8000i103ss1e2ih7m)
+- [x] **Create backend configuration file or CMS field for company details** (id: cmquu6ujs000g103sa2k10tct)
 - [/] **Design and develop responsive About Page UI** (id: cmquu6v82000h103sl4oubzr6)
-- [-] **Create backend configuration file or CMS field for company details** (id: cmquu6ujs000g103sa2k10tct)
 - [x] **Ensure accessibility and semantic HTML** (id: cmquu6vn1000j103s0osk5zte)
 - [x] **Develop and run UI and snapshot tests** (id: cmquu6vpy000k103s2wo3qtp0)
 - [x] **Optimize page load performance** (id: cmquu6vst000l103smdj3137v)
