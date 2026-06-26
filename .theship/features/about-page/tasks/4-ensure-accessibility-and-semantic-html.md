@@ -1,6 +1,6 @@
 # Task: Ensure accessibility and semantic HTML
 **ID**: cmquu6vn1000j103s0osk5zte
-**Status**: TODO
+**Status**: DONE
 
 ## Description
 Add appropriate HTML semantics to the About Page, ensuring the heading has an implicit role and the text is readable via screen readers. Implement accessibility best practices.

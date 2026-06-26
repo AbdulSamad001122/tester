@@ -1,6 +1,6 @@
 # Task: Develop and run UI and snapshot tests
 **ID**: cmquu6vpy000k103s2wo3qtp0
-**Status**: TODO
+**Status**: DONE
 
 ## Description
 Create UI tests to cover at least 90% of the new component's lines of code, including element presence, text content, and responsiveness. Develop snapshot tests to ensure visual consistency across different viewports and browsers. Ensure all tests pass.
