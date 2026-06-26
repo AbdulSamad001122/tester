@@ -1,0 +1,9 @@
+# TheShip AI Workspace Guide
+This directory contains the product specifications, architecture plans, and task lists compiled by TheShip AI.
+
+## Usage for IDE Agents (Cursor / Claude Code)
+1. Read the active feature specifications in `.theship/features/{feature_name}/01_PRD.md`.
+2. Check the active engineering tasks in `.theship/features/{feature_name}/tasks.md`.
+3. Refer to `.theship/features/{feature_name}/tasks/{index}-{task_slug}.md` for detailed coding instructions on each task.
+4. Update the tasks by marking checkboxes in the main `tasks.md` file (e.g. `[ ]` for Todo, `[/]` for In Progress, `[-]` for In Review, `[x]` for Done) as you write the code.
+5. Commit and push the changes to sync back to the TheShip board.
